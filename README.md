@@ -25,3 +25,11 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+# 2018-12-18
+今天发现一个很有意思的工具--terminator,很不错的终端分屏工具。
+安装：
+```
+sudo apt-get install terminator
+```
+使用ctrl+alt+T开启界面。每次分屏时，将鼠标的焦点放入待分屏子窗口
+ctrl+shift+E创建左右分屏 ctrl+shift+O创建上下分屏
